@@ -59,3 +59,4 @@ SEO KEYWORDS
 
 exif metadata remover, remove exif data, strip gps from photos, photo privacy tool, metadata cleaner, windows exif remover
  
+ 
